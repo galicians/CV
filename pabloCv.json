@@ -1,0 +1,181 @@
+{
+  "basics": {
+    "name": "Pablo Portabales",
+    "label": "Software Developer",
+    "email": "galicians@gmail.com",
+    "phone": "07565125107",
+    "summary": "I've always been passionate about technology. In Spain, I graduated in a BSc in Computer Science then completed with a 2 years MSc. After a period working in Madrid, I decided to move to the UK in order to improve my English and pursue a career in IT. Each of the professional experiences I had in the UK, have helped me to grow as a professional and as a person: from Fizzback through NICE, where I had not only colleagues but also friends, to my latest experience at Makers Academy. The latter has been a really intense and rewarding experience: at Makers Academy I learnt how to develop the correct mindset and the necessary skills to become a software engineer.",
+    "location": {
+      "address": "14 Nicholson St.",
+      "postalCode": "SE1 0XP",
+      "city": "London",
+      "countryCode": "UK"
+    },
+    "profiles": [
+      {
+        "network": "github",
+        "username": "galicians",
+        "url": "https://github.com/galicians"
+      },
+     {
+        "network": "linkedin",
+        "username": "galicians",
+        "url": "http://uk.linkedin.com/in/galicians"
+      },
+       {
+        "network": "Twitter",
+        "username": "pportabales",
+        "url": "https://twitter.com/pportabales"
+      }
+    ]
+  },
+  "work": [
+      {
+      "company": "Makers Academy",
+      "position": "Web development student",
+      "website": "http://www.makersacademy.com",
+      "startDate": "2014-08-15",
+      "endDate": "2014-12-05",
+      "summary": "• Full time coding bootcamp",
+      "highlights": [
+        "Single page applications development in javascript, with Node, Express and Angular",
+        "Angular: Test-driven development using Karma-Jasmine for unit tests and Protractor-Jasmine for E2E tests.",
+        "Developing Chrome extensions to implement webRTC capabilities",
+        "Building Node.js APIs, using Mongoose and Sequelize as ORM for storage",
+        "Node.js with socket.io to display Real-time data from Twilio, Github and Twitter APIs"
+      ]
+    },
+    {
+      "company": "Nice Systems",
+      "position": "Client Services and Product Support",
+      "website": "http://www.nice.com",
+      "startDate": "2012-05-01",
+      "endDate": "2014-08-15",
+      "summary": "• Real-time customer feedback solution. My role at Nice was to support the client services team on its day-to-day support and management of our software clients",
+      "highlights": [
+        "Technical resolution of client issues providing development steps to Application Support",
+        "Recognise customer’s problems that should be escalated to the next level for resolution following established protocols",
+        "Maintain and update system documentation"
+      ]
+    },
+    {
+    "company": "Fizzback",
+    "position": "Client Services and Product Support",
+    "startDate": "2010-04-01",
+    "endDate": "2012-05-01",
+    "summary": "• Real-time customer feedback solution. Working directly with Client Services on identifying, resolving or escalating client technical incidents.",
+    "highlights": [
+      "Fulfill support requests from clients, via email and telephone",
+      "Apply understanding and knowledge of information systems products and services to assist customers on technical matters, aiming for first time resolution wherever possible",
+      "Track issues and maintain ongoing contact with the client and internal resources until issue is resolved"
+    ]
+  }
+  ],
+  "education": [
+    {
+      "institution": "University Antonio Nebrija",
+      "website": "http://www.nebrija.com",
+      "area": "Computer Science",
+      "studyType": "Bachelor's Degree",
+      "startDate": "2001-08-01",
+      "endDate": "2003-06-01"
+    },
+     {
+      "institution": "University Francisco Vitoria",
+      "website": "http://www.ufv.es",
+      "area": "Computer Science",
+      "studyType": "Master's degree",
+      "startDate": "2004-08-01",
+      "endDate": "2006-06-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Node.js",
+      "keywords": [
+        "Express",
+        "Socket.io",
+        "Mongoose",
+        "Mocha",
+        "Jasmine"
+      ]
+    },
+    {
+      "name": "Angular.js",
+      "keywords": [
+        "Karma",
+        "Jasmine",
+        "Protractor",
+        "Bootstrap",
+        "Grunt",
+        "Yeoman"
+      ]
+    },
+      {
+      "name": "Storage",
+      "keywords": [
+        "MongoDB",
+        "Postgres",
+        "MySQL"
+      ]
+    },
+     {
+      "name": "TDD",
+      "keywords": [
+        "Karma-Jasmine",
+        "Mocha",
+        "Protractor"
+      ]
+    },
+     {
+      "name": "Chrome Store",
+      "keywords": [
+        "webRTC extension",
+        "webRTC app"
+      ]
+    },
+     {
+      "name": "APIs",
+      "keywords": [
+        "Twilio",
+        "Github",
+        "Twitter"
+      ]
+    },{
+      "name": "Other skills:",
+      "keywords": [
+        "Ruby",
+        "Python",
+        "JQuery",
+        "Git",
+        "Jira"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English"
+    },
+    {
+      "language": "Spanish"
+    }
+  ],
+  "interests": [
+      {
+      "name": "Technology",
+      "keywords": [
+        "Wired",
+        "Twitter",
+        "Gizmodo"
+      ]
+    },
+     {
+      "name": "Learning",
+      "keywords": [
+        "Pluralsight",
+        "Codewars",
+        "Udacity"
+      ]
+    }
+  ]
+}
